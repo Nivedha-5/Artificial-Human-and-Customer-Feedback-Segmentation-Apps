@@ -1,0 +1,228 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hai",
+        "Hi",
+        "hii",
+        "hi",
+        "Hey",
+        "Hay",
+        "one doubt ",
+        "It’s nice to meet you.",
+        "It’s a pleasure to meet you.",
+        "What’s up?",
+        "G’day!",
+        "Hi Chatbot",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hii! I am fine! how are you?",
+        "whats your doubt I'll try to solve it",
+        "Do you want me to (do something)?",
+        "May I offer you (something)?",
+        " I'd be happy to (do something).",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later","Tata", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Take care",
+        "okay bye",
+        "Time to scoot, little newt.",
+        "Don't forget to be awesome.",
+        "I shall return.",
+        "good bye",
+        " I look forward to our next meeting",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "thanks for your help bot", "thank you for your information", "Grateful for your support", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Beyond grateful", " Thanks a million","Thank you, you are  amazing!"," I’m so thankful for everything you bring to the table", "Any time!", " Warmest thanks", "From the bottom of my heart, thank you","My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We have \nESPRESSO- BASED BEVERAGES\n 1.Caffe Latte  2.Cappuccino  3.Double Short Latte  4.Single Tall  5.Butterscotch Latte  6.Cafe Mocha  7.Cafe Americano  8.Cafe Breve  9.Macchiato Con Pana\n\nHOT ALTERNATIVES TO COFFEE\n 1.Hot Chocolate  2.White Hot Chocolate  3.Red Steamer  4.Butterscotch Steamer  5.Spiced Chai Steamer  6.Malted Carob Steamer  7.Loose-Leaf Tea\n\nFREEZES AND ICED DRINKS\n 1.Choc-mint Freeze  2.Seattle Freeze 3.Mocha Freeze  4.Butterscotch Freeze  5.Lemon&Ginger Freeze  6.Berry Freeze  7.Iced Tea  8.Mint Fudge\n\nAnd also some new  Morsels"
+      ]
+    },
+    {
+      "tag": "payments-mode",
+      "patterns": [
+        "Do you take credit cards?",
+        "Payment mode",
+        "Do you accept Mastercard?",
+        "Can I pay with gpay or paytm",
+        "Can I pay through online?",
+        "Will you accept online payment?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "Yes! We will accept through online mode",
+        "You can pay through online mode and we have paytm and gpay",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "Greetings for gm ",
+      "patterns": [
+        "GM",
+        "good morning",
+        "Good Morn",
+        "Good morning"
+      ],
+      "responses": [
+        "Good Morning dear! have a nice day!"
+      ]
+    },
+    {
+      "tag": "Greetings for ge ",
+      "patterns": [
+        "GE",
+        "good evening",
+        "Good Even",
+        "Good evening"
+      ],
+      "responses": [
+        "Good Evening dear! have a nice day!"
+      ]
+    },
+    {
+      "tag": "Greetings for gn ",
+      "patterns": [
+        "GN",
+        "good night",
+        "Good Nyt",
+        "Good Night"
+      ],
+      "responses": [
+        "Good Night dear! sleep well and have a sweet dreams !"
+      ]
+    },
+    {
+      "tag": "delivery-mode",
+      "patterns": [
+        "How long does delivery take?",
+        "What will be the delivery time",
+        "When can I expect my items to arrive?",
+        "Will you get delivery charges?",
+        "How long would it take for the items  to be delivered?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes just about 15-30 mins and its free delivery",
+        "Delivery takes about 20 mins and its free delivery ",
+        "We will provide fast delivery of about 10-15 mins and its free delivery"
+      ]
+    },
+    {
+      "tag": "Time",
+      "patterns": [
+        "when are you guys open",
+        "what are your hours",
+        "hours of operation",
+        "closing time",
+        "what is time of closing the shop",
+        "Are you open till...?",
+        "How late are you open until tonight?",
+        "What time do you close today?",
+        "What are your opening times today?"
+      ],
+      "responses": [
+        "We will accept delivery orders at anytime but the opening hours are Monday to Friday from 9am to 10pm",
+        "Opening hours are Monday to Friday from 9am to 5pm and we will accept delivery order at anytime"
+      ]
+    },
+    {
+      "tag": "Location",
+      "patterns": [
+        "Please provide exact location of your cafe ",
+        "location of your shop",
+        "Location of your cafe",
+        "Your Location please"
+      ],
+      "responses": [
+        "Its on Main Street.Its next to the post office.\nIts between the bakery and the barber shop.\nIts on the corner of Ninth Street and Pine (Street).",
+        "Its on Main Street.\nIts next to the post office.\nIts between the bakery and the barber shop.\nIts on the corner of Ninth Street and Pine (Street).\n\n If you still confusing check our website please!"
+      ]
+    },
+    {
+      "tag": "Quality",
+      "patterns": [
+        "Will you provide quality coffee?",
+        "Quality details",
+        "Quality",
+        "What ingredients are you using for coffee?",
+        "How is your coffee?"
+      ],
+      "responses": [
+        "We will make use of very good and natural ingredients Acai seeds , Cocoa Seeds , Barley , Rye , Tannin , Ground Coffee beans , Steamed milk foam",
+        "We will make coffee powder and chocolate powder on our own and we will make use of very good and natural ingredients Acai seeds , Cocoa Seeds , Barley , Rye , Tannin , Ground Coffee beans , Steamed milk foam"
+      ]
+    },
+    {
+      "tag": "Saying Okay",
+      "patterns": [
+        "Okay",
+        "Oh Okay",
+        "okay nice",
+        "Wow nice",
+        "Yeah Thanks",
+        "Good and Okay",
+        "Ok"
+      ],
+      "responses": [
+        "Okay and thanks for your question ",
+        "Okay and good question!"
+      ]
+    },
+    {
+      "tag": "Price Tag",
+      "patterns": [
+        "What will be the price?",
+        "Price",
+        "cost details",
+        "Will you get more charge?",
+        "Price details please"
+      ],
+      "responses": [
+        "Our starting price will be from 100 and it will change according to the your preference",
+        "Cost will be as fair as possible"
+      ]
+    },
+    {
+      "tag": "bad words",
+      "patterns": [
+        "Idiot",
+        "Mental",
+        "Foolish",
+        "Rubbish"
+      ],
+      "responses": [
+        "speak softly and kindly . Don't use bad words"
+      ]
+    }
+    ]
+}
