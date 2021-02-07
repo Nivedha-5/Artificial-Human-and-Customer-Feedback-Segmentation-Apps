@@ -1,0 +1,1000 @@
+Coffee_Shop_Name,Review Title,Rating,Cat_Rate,Bool_HIGH,Tea_Rate,Service_Rate,Seating_Rate,Parking_Rate
+Manana Coffee & Juice ,Ottima qualità prezzo,5,HIGH,1,0,0,0,0
+Brian's Brew ,"By far, my best hotel in the world",4,HIGH,1,0,0,0,0
+Flitch Coffee ,First visit to the American Bar at the Savoy,4,HIGH,1,0,0,3,0
+Third Coast Coffee Roasting Company ,Nice stay,2,LOW,0,0,0,-1,-1
+Kowabunga Coffee ,Perfection,4,HIGH,1,0,0,0,0
+Legend Coffee ,Staff stole from me!!,4,HIGH,1,0,0,0,-2
+Fleet Coffee ,Great customer service and comfy bed,4,HIGH,1,0,0,2,0
+Holy Grounds ,"Yes, it's really good!",5,HIGH,1,0,1,-1,0
+Anderson's Coffee Company ,Incredible,3,LOW,0,0,0,0,1
+Apanas Coffee & Beer ,Ottima scelta!,5,HIGH,1,0,0,0,0
+Flat Track Coffee ,Best in Town,4,HIGH,1,0,0,0,0
+Friends & Neighbors ,"Good hotel, but needs touch-up and improved layout of entrance floor",3,LOW,0,0,0,0,0
+Lola Savannah Coffee,what a disappointment,3,LOW,0,0,-1,0,-1
+Corona Coffee ,Great hotel needs to up its game to compete today,5,HIGH,1,0,0,0,0
+Figure 8 Coffee Purveyors ,a true five star hotel,5,HIGH,1,0,0,0,0
+Sister Coffee ,Surprisingly quiet in Central London,5,HIGH,1,0,2,0,0
+Lucky Lab Coffee ,Amazing proposal venue!,5,HIGH,1,0,2,0,2
+Cafe Ruckus ,Beautiful,4,HIGH,1,0,1,0,-2
+Cafe Creme ,Beautiful hotel in a great location,4,HIGH,1,0,1,1,-1
+Fat Cats Organic Coffee And Dessert ,Very stylish accommodation,4,HIGH,1,0,0,0,0
+The Factory - Cafe With a Soul ,The brand is bigger than the experience,5,HIGH,1,0,0,0,0
+Mary's Cafe ,Nice rooms but not quite wow,5,HIGH,1,0,0,0,0
+Patika ,Great Hosts,4,HIGH,1,2,0,0,0
+Sa-Ten ,Excellent rapport qualité prix,5,HIGH,1,0,0,0,0
+Seventh Flag Coffee Co ,"Fantastic nights stay, one of the best hotels I've ever been to!",5,HIGH,1,1,1,0,0
+Cafe Java ,Corinthia Hotel London - WOW,1,LOW,0,0,0,0,-2
+Emerald Tavern Games & Cafe ,Excellent service,5,HIGH,1,0,0,0,0
+Elixer Coffee ,Excellent,5,HIGH,1,0,2,0,0
+Summermoon Coffee Bar ,It's All True!,5,HIGH,1,0,0,0,0
+Arturo's Underground Cafe ,Exceeded All My Expectations,5,HIGH,1,0,2,0,0
+Irie Bean Coffee Bar ,"Great location, fine hotel, odd service",4,HIGH,1,0,0,0,0
+Juan Pelota ,exceptional service. great location. brilliant food.,5,HIGH,1,0,0,0,0
+Hot Mama's Cafe ,Outstanding,5,HIGH,1,0,0,0,0
+Sorrento's Coffee ,Apex London Wall repeat visit,3,LOW,0,0,0,0,0
+Flightpath Coffeehouse ,Just as good second time around!,5,HIGH,1,0,0,0,0
+TOMS ,Felt like a princess,5,HIGH,1,0,2,0,0
+Jo's Coffee ,Safety concerns.....,4,HIGH,1,0,0,0,0
+Houndstooth Coffee ,Good Hotel - Great Area,5,HIGH,1,0,2,0,0
+Vintage Heart Coffee ,Freundliches & zukommendes Personal sowie sehr gute Lage,5,HIGH,1,0,0,0,0
+Picnik Austin ,The gift of a lifetime and a memory to last for ever,1,LOW,0,0,0,0,0
+Bennu Coffee ,Very good hotel in the City,2,LOW,0,0,2,0,0
+Caffe Medici ,Good stay,5,HIGH,1,0,0,0,0
+Tea Haus ,Amazing 5 star hotel!,5,HIGH,1,0,0,2,0
+Monkey Nest Coffee ,"Excellent location, great staff",5,HIGH,1,0,0,0,0
+Mozart's Coffee Roasters ,Great value in perfect location,5,HIGH,1,0,0,0,0
+Cenote ,Eccellente,5,HIGH,1,0,2,2,0
+Trianon Coffee ,Superior in every respect,5,HIGH,1,0,0,1,0
+The Buzz Mill ,Excellent hotel all round,5,HIGH,1,0,0,0,-1
+Radio Coffee & Beer ,Disappointing ...,3,LOW,0,0,0,0,-2
+Thunderbird Coffee ,Visit 3 July,5,HIGH,1,0,0,0,0
+Cherrywood Coffeehouse ,Good hotel but bad bed,5,HIGH,1,0,0,0,0
+Genuine Joe ,Where is the Wow Factor?,5,HIGH,1,0,0,0,0
+Alta's Cafe ,Ottimo,5,HIGH,1,0,1,0,0
+Cream Whiskers ,Great Stay in London,5,HIGH,1,0,0,0,0
+Dominican Joe ,A Fabulous Treat!,5,HIGH,1,0,0,0,1
+The Hideout Coffeehouse ,Great value South Bank Sunday package,5,HIGH,1,0,0,0,0
+La Tazza Fresca ,"Different, Great Location, Great Interior",5,HIGH,1,0,0,0,0
+Teo ,This is such a nice hotel!,5,HIGH,1,0,0,0,0
+Cuvee Coffee Bar ,A Great Stay,2,LOW,0,0,0,0,-2
+Halcyon ,Could be so much better,5,HIGH,1,0,2,0,0
+Epoch Coffee ,Très sympathique,5,HIGH,1,0,0,0,0
+Stinson's ,Excellent hotel but make sure you book to use the bar area in advance,5,HIGH,1,0,0,0,0
+Kick Butt Coffee Music & Booze ,Superbreak Stay,5,HIGH,1,2,0,0,0
+Pacha ,best in the whole world,5,HIGH,1,1,0,0,0
+"Strange Brew, Austin Coffee ",Excelente opcion en Londres,5,HIGH,1,0,1,0,0
+Once Over Coffee Bar ,BEaufort suite - Faultless,5,HIGH,1,2,0,0,0
+,Friendliest staff,5,HIGH,1,0,0,0,0
+,Fabulous hotel,5,HIGH,1,0,0,0,0
+,Everything I had hoped for.,5,HIGH,1,1,2,0,0
+,Lovely Birthday treat,5,HIGH,1,-1,2,0,0
+,Beautiful hotel experience,5,HIGH,1,0,0,0,0
+,Elegance - great for drinks for business or with family or friends,5,HIGH,1,0,1,0,0
+,Good place to stay in London,3,LOW,0,0,0,0,0
+,Great Location in the Heart of Knightsbridge,4,HIGH,1,0,1,0,0
+,Trip to Wimbledon,2,LOW,0,0,0,1,0
+,Exemplary Service and Stunning Hotel,4,HIGH,1,0,0,0,0
+,Petite mais propre/ small but clean,4,HIGH,1,0,1,0,0
+,Wow....,4,HIGH,1,0,0,0,0
+,Handy for everything,4,HIGH,1,0,0,0,0
+,Absolutely Amazing Stay,5,HIGH,1,0,0,0,0
+,anything you dream,5,HIGH,1,0,2,0,0
+,lost for words,5,HIGH,1,0,0,0,0
+,Amazing Service,3,LOW,0,0,-1,0,0
+,Lebanese food,4,HIGH,1,0,2,0,0
+,Confortavel e belo,4,HIGH,1,0,0,0,0
+,excellent hotel,4,HIGH,1,0,0,0,0
+,"Excellent Stay at The Rembrandt: Location, Comfort, Service",5,HIGH,1,0,0,0,0
+,Great hotel and super location,3,LOW,0,0,0,0,0
+,late lunch,4,HIGH,1,3,1,0,0
+,Xenia weekend break,3,LOW,0,0,0,1,0
+,<U+0391><U+03B3><U+03B3><U+03BB><U+03B9><U+03BA><U+03BF>!,4,HIGH,1,0,-1,0,0
+,A perfect base,5,HIGH,1,0,0,0,0
+,short break,4,HIGH,1,0,0,0,0
+,Comfortable and friendly,4,HIGH,1,0,1,0,0
+,Solid addition to Autograph name,1,LOW,0,0,0,0,1
+,Cheap comfortable one night stay around from Hyde Park,4,HIGH,1,0,0,1,0
+,A Gem-Off the Radar. Best Hotel,5,HIGH,1,0,0,0,0
+,Amazing jazz dinner experience,4,HIGH,1,0,0,0,0
+,POSH!,5,HIGH,1,0,2,0,0
+,Our Mondrian hotel stay was our best ever stay in a London hotel,1,LOW,0,0,0,0,0
+,Little bit of LA on The Thames,2,LOW,0,0,0,0,0
+,Great staff,4,HIGH,1,0,0,0,0
+,OMG the view!,3,LOW,0,0,2,0,1
+,Birthday two-nighter,4,HIGH,1,0,0,0,0
+,5 star service in a 5 Star location,4,HIGH,1,0,0,0,0
+,minimo indispensabile,2,LOW,0,0,1,0,0
+,What a find,5,HIGH,1,0,1,0,-1
+,Great visit,4,HIGH,1,0,2,0,0
+,Fab!,4,HIGH,1,0,0,0,1
+,"Overall enjoyable stay, would recommend",5,HIGH,1,0,2,0,0
+,Top Hotel,4,HIGH,1,0,0,0,0
+,Just fabulous,4,HIGH,1,0,0,0,0
+,Best I have expierenced in London,5,HIGH,1,0,1,-1,0
+,My new London favorite,5,HIGH,1,0,2,0,0
+,Stayed at the Rembrandt,5,HIGH,1,0,0,0,0
+,Cheap and Basic,5,HIGH,1,0,0,0,0
+,Fabulous,5,HIGH,1,0,3,0,0
+,A Fantastic Experience!,5,HIGH,1,0,0,0,0
+,Gutes Hotel nahe Ubahn,4,HIGH,1,0,1,0,0
+,Great smaller hotel in financial district,5,HIGH,1,0,2,0,0
+,Excelente hotel bien situado,5,HIGH,1,0,0,0,0
+,Great hotel,5,HIGH,1,0,0,0,0
+,One of the best hotels in London.,4,HIGH,1,0,0,2,0
+,high tea,4,HIGH,1,0,0,0,0
+,Bene ma quante scale!!!,5,HIGH,1,0,0,0,0
+,1 star service,4,HIGH,1,0,0,0,0
+,"Great place to stay, feel like home",4,HIGH,1,0,0,0,0
+,Special Afternoon Tea,5,HIGH,1,0,0,0,0
+,Great Location,4,HIGH,1,-2,1,0,0
+,Great hotel,5,HIGH,1,0,0,0,0
+,Great location,5,HIGH,1,0,2,0,0
+,Stunning,5,HIGH,1,0,0,0,0
+,Never Disappoints!,5,HIGH,1,0,1,0,0
+,Faded glory,3,LOW,0,0,0,0,0
+,You will not be disappointed,4,HIGH,1,0,0,0,0
+,The Mandarin Oriental London,4,HIGH,1,0,0,0,0
+,Amazing one night stay!,5,HIGH,1,0,0,0,-1
+,A city resort,5,HIGH,1,0,0,0,0
+,Toda una Experiencia,4,HIGH,1,0,1,1,0
+,Understated class,5,HIGH,1,0,0,0,0
+,Localização ideal,5,HIGH,1,0,1,0,0
+,Staff stupendo e b&b perfetto!,5,HIGH,1,0,0,0,0
+,New Years Eve,5,HIGH,1,0,0,0,0
+,Lovely Corinthia,5,HIGH,1,0,-2,0,0
+,"Zentral, gut und guenstig",3,LOW,0,0,1,0,0
+,Splendid hotel,5,HIGH,1,0,2,0,0
+,rooms not ready on time,3,LOW,0,0,0,0,0
+,A hotel to end all hotels,4,HIGH,1,0,0,2,0
+,Not what it used to be,5,HIGH,1,0,1,0,0
+,Perfect for the budget traveler,5,HIGH,1,0,0,0,0
+,pure Class and luxury,3,LOW,0,0,0,0,0
+,Luxury in London,4,HIGH,1,0,0,0,0
+,A mixture of feelings,4,HIGH,1,0,0,0,0
+,View of the park,3,LOW,0,0,0,0,0
+,Tea at the Savoy,3,LOW,0,0,0,0,1
+,"So good, had to stay again.",4,HIGH,1,0,0,0,0
+,A grandiose experience.,4,HIGH,1,0,3,0,0
+,Excellent hotel,4,HIGH,1,0,1,0,0
+,Super,5,HIGH,1,0,0,0,0
+,My favourite London Secret,5,HIGH,1,0,0,0,0
+,Great Hotel!,5,HIGH,1,0,1,0,0
+,Charming hotel,4,HIGH,1,0,0,0,0
+,They've got it just right,4,HIGH,1,0,0,0,0
+,#JustAwesome,4,HIGH,1,0,1,0,0
+,Bra',4,HIGH,1,0,0,0,0
+,Muy buen hotel,4,HIGH,1,0,0,0,0
+,Definitely worth the treat.,5,HIGH,1,0,1,0,0
+,A gem in London town,3,LOW,0,0,0,0,0
+,Amazing experience,5,HIGH,1,0,0,0,0
+,Brilliant Hotel!,5,HIGH,1,0,0,0,0
+,Perfection,4,HIGH,1,0,0,2,0
+,Small Rooms,5,HIGH,1,0,0,0,0
+,Apenas Razoável,4,HIGH,1,0,0,0,-2
+,Absolutely Fan-tas-tic!,5,HIGH,1,0,3,0,0
+,<U+041B><U+0443><U+0447><U+0448><U+0438><U+0439> <U+0438><U+0437> <U+043B><U+0443><U+0447><U+0448><U+0438><U+0445>,5,HIGH,1,0,1,2,0
+,Viagem férias em Londres,4,HIGH,1,0,0,0,0
+,Magnifique!,4,HIGH,1,0,0,0,0
+,Value for money!,5,HIGH,1,0,1,0,0
+,<U+512A><U+96C5><U+306A><U+6642><U+9593><U+304C><U+904E><U+3054><U+305B><U+308B><U+30E9><U+30B0><U+30B8><U+30E5><U+30A2><U+30EA><U+30FC><U+30DB><U+30C6><U+30EB>,4,HIGH,1,0,0,0,0
+,In one word,4,HIGH,1,0,0,0,3
+,Very posh afternoon tea,5,HIGH,1,0,0,0,0
+,"Fantastic hotel, lovely spa",5,HIGH,1,0,0,0,0
+,Buen hotel para pasar unos días en Londres,4,HIGH,1,0,0,0,0
+,Quality and good service,4,HIGH,1,0,0,0,0
+,Lovely hotel with gorgeous rooms,4,HIGH,1,0,0,0,0
+,Really loved this hotel. Fabulous room and lovely staff.,5,HIGH,1,0,0,0,0
+,Lovely!,5,HIGH,1,0,0,0,0
+,Elegant hotel in quiet area,4,HIGH,1,0,0,0,0
+,So so,5,HIGH,1,0,0,0,0
+,"Fantastic,Marvellous,Superb 5 stars in all its glory.",5,HIGH,1,0,0,0,0
+,Way below expectations,5,HIGH,1,0,0,0,0
+,Best hotel I've ever stayed in,5,HIGH,1,0,0,2,0
+,Great but small rooms,5,HIGH,1,0,2,1,0
+,Cool new happening hotel on the South bank,5,HIGH,1,0,0,0,0
+,Royal Tea is a must,5,HIGH,1,0,1,0,0
+,A deserved Icon,4,HIGH,1,0,2,0,0
+,The best in London,5,HIGH,1,0,0,0,0
+,"Great location, decent accommodations",5,HIGH,1,0,0,0,0
+,An oasis of tranquil luxury,5,HIGH,1,0,0,0,0
+,Perfect for a special occasion,5,HIGH,1,0,0,0,0
+,Faultless Hotel,4,HIGH,1,0,0,0,0
+,Family hotel with breakfast in good location,5,HIGH,1,0,-1,-1,0
+,One of the best hotel experiences I've had,5,HIGH,1,0,0,0,0
+,Excellent experience!!,5,HIGH,1,0,0,0,0
+,Elegance at its Finest,5,HIGH,1,0,0,0,0
+,"Looked after impeccably, as usual",5,HIGH,1,0,0,0,0
+,"""Quintessentially English"".",5,HIGH,1,0,0,1,0
+,Five Star Savoy,5,HIGH,1,0,0,0,0
+,Good location and service for sure..,5,HIGH,1,0,0,0,0
+,Lovely weekend break,5,HIGH,1,0,2,0,0
+,Best Hotel i have had the pleasure to stay at,4,HIGH,1,0,0,0,0
+,Bucket list stay of my dreams!,5,HIGH,1,0,0,0,0
+,Best Stay In town,5,HIGH,1,0,0,0,0
+,The best hotel,2,LOW,0,0,0,0,1
+,Flawless,5,HIGH,1,0,0,0,0
+,Fantastic hotel,5,HIGH,1,0,2,0,0
+,One night stay to see a TV Show,5,HIGH,1,0,0,0,0
+,Muy buen hotel pero....,5,HIGH,1,0,0,0,0
+,Super Hotel an toller Lage,5,HIGH,1,0,0,0,0
+,Fantastic stay,5,HIGH,1,0,0,0,0
+,Buen hotel buena ubicación,4,HIGH,1,0,0,0,0
+,Elegant inner city hotel,5,HIGH,1,0,0,0,0
+,Great Hotel !!!,5,HIGH,1,0,0,0,0
+,Disappointing,5,HIGH,1,0,2,0,0
+,Does exactly what it says on the tin.,5,HIGH,1,0,0,0,0
+,Great hotel for a frequent visitor,5,HIGH,1,0,1,0,0
+,tolle Unterkunft an ausgezeichneter Lage,4,HIGH,1,0,0,0,0
+,My favourite Hotel in London,5,HIGH,1,0,0,0,0
+,Stylish hotel in a great location,5,HIGH,1,0,0,0,0
+,"Quiet, clean, comfortable hotel",5,HIGH,1,0,1,-1,0
+,"Nice staff,clean,good location but TINY rooms with no place to put catkin or stuff",4,HIGH,1,0,0,0,1
+,Lovely Hotel,5,HIGH,1,0,0,0,-1
+,wow what a wonderful hotel,5,HIGH,1,0,0,0,0
+,"Modern, Centrally Located 5-Star Hotel",5,HIGH,1,0,0,0,-1
+,Very nice - exceptional service,4,HIGH,1,0,0,0,0
+,Location couln't be better,3,LOW,0,0,0,0,2
+,Wonderful Afternoon Tea,5,HIGH,1,0,0,2,0
+,Do not settle for second best,3,LOW,0,0,1,1,0
+,Hôtel très agréable et bien placé avec un excellent accueil,5,HIGH,1,0,0,0,0
+,Comfortable,3,LOW,0,0,0,-2,0
+,Absolutely perfect,3,LOW,0,0,0,0,-1
+,thouroughly enjoyed my stay,4,HIGH,1,0,0,0,0
+,Soggiorno perfetto,5,HIGH,1,0,0,0,0
+,"""A big warm hug...""",5,HIGH,1,0,0,0,0
+,Excelente,4,HIGH,1,0,0,0,0
+,"Comfortable rooms, great position",5,HIGH,1,0,0,0,0
+,A stylish hotel with good service and a great location,5,HIGH,1,0,0,0,3
+,Ripped Off,2,LOW,0,0,0,0,0
+,Déçue par l'accueil....,5,HIGH,1,0,0,0,0
+,Has to be the best in London,5,HIGH,1,0,0,1,0
+,Bargain!,5,HIGH,1,0,0,0,0
+,EXCELLENT PROPERTY,4,HIGH,1,0,0,0,0
+,Is this really a Morgans Hotel?!,2,LOW,0,0,0,0,0
+,Perfect tranquility,5,HIGH,1,0,0,2,0
+,So happy with The Rembrandt!,4,HIGH,1,0,0,0,-1
+,Wait until after Nov 2017,4,HIGH,1,0,0,0,0
+,Good business hotel in City,4,HIGH,1,0,0,1,0
+,Impecable Service,5,HIGH,1,0,0,0,0
+,excellent hotel,2,LOW,0,0,0,0,0
+,Not sure I want to share..............,5,HIGH,1,0,0,0,0
+,Par 45,4,HIGH,1,0,-1,0,0
+,Not good enough!,5,HIGH,1,0,0,0,0
+,"Stunning hotel, great location, relaxing spa facilities",5,HIGH,1,0,0,0,0
+,Surprised at ease of location,5,HIGH,1,0,0,0,0
+,Afternoon tea an absolute delight,5,HIGH,1,0,0,-1,0
+,Unbelievable Spa,5,HIGH,1,2,0,0,0
+,"Still Love this place, what a great addition dinner is!! :)",4,HIGH,1,0,1,0,0
+,Perfeito!,5,HIGH,1,0,0,2,0
+,Great hotel,4,HIGH,1,0,0,0,0
+,Bulgari Hotel - Knightsbridge,4,HIGH,1,0,0,0,0
+,Beautiful boutique hotel,3,LOW,0,0,0,2,0
+,great location,5,HIGH,1,0,0,0,0
+,Excellent,5,HIGH,1,0,0,2,0
+,A fantastic find,5,HIGH,1,0,0,0,0
+,Friendliest staff,4,HIGH,1,0,3,0,0
+,Lovely hotel,4,HIGH,1,0,0,0,0
+,Christmas Lunch,2,LOW,0,0,0,0,0
+,Très moyen,4,HIGH,1,0,0,0,0
+,amazing experience,5,HIGH,1,0,0,0,0
+,The Hotel is Not Special for a Five-Star Place. The nail Spa is the worst,5,HIGH,1,0,1,0,0
+,Loved our Visit!,5,HIGH,1,0,0,0,0
+,Pleasant surroundings and good service. Pricey though.,4,HIGH,1,0,1,0,-2
+,Excellent stay,2,LOW,0,0,0,0,-1
+,Very good,4,HIGH,1,0,0,0,0
+,A thoroughly enjoyable stay.,5,HIGH,1,0,0,0,0
+,Great stay on a budget,5,HIGH,1,0,0,0,0
+,FANTASTIC HOTEL AND PHENOMENAL STAFF....,5,HIGH,1,0,0,0,3
+,"Great Hotel, Great Location",4,HIGH,1,1,0,0,0
+,Just marvellous,4,HIGH,1,0,0,0,0
+,The Ultimate hotel in the World,5,HIGH,1,0,0,0,0
+,Great hotel,3,LOW,0,0,0,2,0
+,Good Location Hotel but.....,5,HIGH,1,0,0,0,0
+,Très bon accueil,4,HIGH,1,0,0,0,0
+,Lovely stay!,5,HIGH,1,0,0,0,0
+,The Rembrandt is a good choice in London,4,HIGH,1,0,0,1,-1
+,Beautiful Spa & Location :),4,HIGH,1,0,0,0,0
+,The Corinthia Hotel’s Bassoon Bar.,4,HIGH,1,0,0,0,0
+,New and clean,5,HIGH,1,0,0,0,0
+,Another fantastic visit to the Mondrian!,2,LOW,0,0,-3,0,0
+,Good Stay,4,HIGH,1,0,0,0,0
+,Average Hotel,2,LOW,0,0,0,0,0
+,Le top du Brunch à l'anglaise,3,LOW,0,0,0,0,0
+,Not great,4,HIGH,1,0,0,0,0
+,One word. Amazing!!!,4,HIGH,1,0,0,0,0
+,Room not good enough,4,HIGH,1,0,0,0,0
+,Un hotel cómodo y bien ubicado,4,HIGH,1,0,0,0,0
+,An Amazing Hotel,5,HIGH,1,0,0,0,0
+,ABSOLUTELY AMAZING!,4,HIGH,1,0,0,0,0
+,London trip oct 2017,4,HIGH,1,0,0,0,0
+,Trevligt och prisvärt!,5,HIGH,1,0,0,0,0
+,Muito bom,2,LOW,0,0,0,1,0
+,Pleasant staff and a great location,2,LOW,0,0,0,0,0
+,"Bello all’apparenza, ma colazione tristissima",4,HIGH,1,0,0,0,2
+,Best hotel and quiet area,2,LOW,0,0,0,0,0
+,Nice location,2,LOW,0,0,0,0,0
+,"Great hotel, wonderful location",4,HIGH,1,0,0,0,0
+,Beautiful Classy and freindly,4,HIGH,1,0,0,0,0
+,The American Bar - Art Deco elegance,4,HIGH,1,0,0,0,0
+,Amazing stay can’t wait to go back!,4,HIGH,1,0,0,0,0
+,February stay at Rhodes.,2,LOW,0,0,-2,0,0
+,Wife's 30th birthday,4,HIGH,1,0,3,1,-1
+,Afternoon tea,4,HIGH,1,0,0,0,-1
+,Sparkling Hotel and Impressive Service,1,LOW,0,0,0,1,0
+,OK hotel i forhold til prisen,5,HIGH,1,0,0,0,0
+,Wonderful hotel,5,HIGH,1,0,0,0,0
+,Afternoon tea,5,HIGH,1,0,0,0,0
+,Enjoyable Industry Dinner,4,HIGH,1,0,0,0,-1
+,Bond...James Bond,4,HIGH,1,0,0,0,0
+,<U+C544><U+B984><U+B2F5><U+ACE0> <U+C6B0><U+C544><U+D55C> <U+D638><U+D154>,5,HIGH,1,0,0,0,0
+,Serenity,5,HIGH,1,0,0,0,0
+,My favourite hotel - in the world,5,HIGH,1,0,1,0,0
+,3 nights in London,5,HIGH,1,0,0,0,0
+,Outstanding stay for wedding,4,HIGH,1,0,0,0,0
+,Birthday afternoon tea,4,HIGH,1,0,2,0,0
+,Wow the Mondrian !!!,5,HIGH,1,0,0,0,0
+,Terrific value; try to get renovated room,4,HIGH,1,0,0,1,0
+,Outstanding Location and Service,4,HIGH,1,0,0,0,0
+,A very pleasant discovery!,5,HIGH,1,0,0,0,0
+,Lives up to it's name!,2,LOW,0,0,0,0,0
+,Perfect London location,5,HIGH,1,0,0,0,0
+,Hotel fit for a King,5,HIGH,1,0,3,0,0
+,A very enjoyable stay!,5,HIGH,1,0,1,0,0
+,Per soggiornare a Londra senza svenarsi,5,HIGH,1,0,0,0,0
+,First class,4,HIGH,1,0,0,0,0
+,Horrible service at The Savoy,4,HIGH,1,0,2,0,2
+,The most wonderful dining experience in London,5,HIGH,1,0,0,1,0
+,"Excellent location, superior service and old world class",4,HIGH,1,0,0,0,0
+,Service de haute voltige !,5,HIGH,1,0,0,0,0
+,Good... but lacked that something special,5,HIGH,1,0,0,0,0
+,"Great location, lovely service !",4,HIGH,1,0,0,0,0
+,Cute hotel in Kensington,3,LOW,0,0,0,0,0
+,One night stay to celebrate my 40th,5,HIGH,1,0,0,0,0
+,Ottimo,5,HIGH,1,0,0,0,0
+,Perfect in every way!,3,LOW,0,0,0,0,0
+,Caution - Musty and shabby.,4,HIGH,1,0,0,0,0
+,perfection!!,5,HIGH,1,0,0,0,0
+,Excellent hotel in a fantastic location for the museums!,5,HIGH,1,0,2,0,0
+,Morgan Hotels does it again!,5,HIGH,1,0,1,0,0
+,Great little Hotel!,5,HIGH,1,0,0,0,0
+,Lunch by the River,5,HIGH,1,0,1,0,0
+,A real treat!,5,HIGH,1,0,2,0,0
+,Lovely but wish AC worked,4,HIGH,1,0,2,2,0
+,Disappointed in room,5,HIGH,1,0,0,0,0
+,Why add service charge?,4,HIGH,1,0,1,-1,0
+,<U+041C><U+043E><U+0434><U+043D><U+044B><U+0439> <U+043E><U+0442><U+0435><U+043B><U+044C>,5,HIGH,1,0,0,1,0
+,Nice surprise for a London hotel!,5,HIGH,1,0,2,0,0
+,Excellent 4 day stay,4,HIGH,1,0,0,0,0
+,An English experience,5,HIGH,1,0,0,0,0
+,Perfect business trip stay!,5,HIGH,1,0,1,0,0
+,Great for a late night drink!,4,HIGH,1,0,0,0,0
+,Happy weekend,5,HIGH,1,0,0,1,0
+,Special experience,5,HIGH,1,0,2,0,0
+,<U+6539><U+88C5><U+5F8C><U+521D><U+3081><U+3066><U+306E><U+5BBF><U+6CCA>,5,HIGH,1,0,0,0,0
+,Breakfast at the Northall Resataurant - a real treat in every way!,4,HIGH,1,0,0,0,0
+,Super hotel in a perfect location,5,HIGH,1,0,0,0,0
+,Amazing wedding!,4,HIGH,1,0,0,0,0
+,Suffisant pour un court séjour.,5,HIGH,1,0,1,1,0
+,Freundliche Unterkunft,4,HIGH,1,0,0,0,0
+,Un buon hotel a Londra,5,HIGH,1,0,0,0,0
+,High class,4,HIGH,1,0,0,1,0
+,Perfect location!,5,HIGH,1,0,0,0,0
+,Hotel in West London,5,HIGH,1,0,0,0,0
+,"Great location, not so great Hotel",4,HIGH,1,0,0,0,0
+,Wonderful weekend base,4,HIGH,1,0,1,0,0
+,BEST HOTEL EVER,2,LOW,0,0,0,0,0
+,Fantastic,5,HIGH,1,0,0,2,0
+,Birthday weekend,5,HIGH,1,0,0,0,0
+,Great experience,4,HIGH,1,0,0,0,0
+,Friendly budget hotel,5,HIGH,1,0,0,0,0
+,Exceptional in almost every way,2,LOW,0,0,0,0,0
+,Afternoon Tea,4,HIGH,1,0,0,0,0
+,Amazing-not so!,5,HIGH,1,0,0,0,0
+,Bad experience,5,HIGH,1,0,0,0,0
+,A great hotel in the heart of London's Financial District,4,HIGH,1,0,0,0,0
+,The best service in the world,5,HIGH,1,0,0,0,0
+,"Excellent option, great hotel and superb staff",5,HIGH,1,0,0,0,0
+,daughters 18th Birthday,5,HIGH,1,0,0,0,0
+,Ok but not stunning,5,HIGH,1,0,0,0,0
+,Superb 60th Celebration,5,HIGH,1,0,1,2,0
+,Great hotel,4,HIGH,1,0,0,0,0
+,A Gem in a great area of London,5,HIGH,1,0,0,0,0
+,Best hotel stay yet,3,LOW,0,0,2,0,0
+,Giannone trip,4,HIGH,1,0,0,0,0
+,Perfect location and most affordable for London town,5,HIGH,1,0,0,0,0
+,Hotel estupendo y bien ubicado,4,HIGH,1,0,0,0,0
+,great location,5,HIGH,1,0,0,0,1
+,Excellent,5,HIGH,1,0,0,0,0
+,Great Location Budget Hotel,5,HIGH,1,0,0,0,0
+,Spectacular hotel in the heart of London,5,HIGH,1,0,2,0,0
+,Friendly and welcoming,5,HIGH,1,0,0,0,0
+,Super stay,2,LOW,0,0,0,0,0
+,Tea Time,4,HIGH,1,0,0,0,0
+,Amazing,5,HIGH,1,0,0,0,0
+,Classic setting and service in a great central location,5,HIGH,1,0,1,0,0
+,Good value,5,HIGH,1,0,1,0,0
+,Pure Class,5,HIGH,1,0,2,0,0
+,Perfekt,5,HIGH,1,0,1,0,0
+,Dorchester Hotel Superb!,4,HIGH,1,0,0,0,0
+,Amazing stay,5,HIGH,1,0,0,0,0
+,Excellent séjour,5,HIGH,1,0,0,0,0
+,Good stay,5,HIGH,1,0,2,0,0
+,Quase indescritível,4,HIGH,1,0,0,0,0
+,My 70th birthday,5,HIGH,1,0,0,0,0
+,Great chic London hotel with South Bank location and 'no name',5,HIGH,1,0,1,0,0
+,Perfect experience from start to the finish,5,HIGH,1,0,1,0,0
+,Urban Cocktail Hide Out,5,HIGH,1,0,1,0,0
+,"Lovely spa experience, not such a lovely afternoon tea experience!",4,HIGH,1,0,2,0,0
+,First Class Luxury Hotel!,5,HIGH,1,0,0,0,0
+,"Incredible incredible hotel, spa & staff",5,HIGH,1,0,-1,0,0
+,Worth Every Penny,5,HIGH,1,0,0,1,0
+,Better-than-basic business trip,4,HIGH,1,0,0,0,0
+,Great location and comfortable rooms,5,HIGH,1,1,0,0,0
+,Camera quintupla,5,HIGH,1,0,0,0,0
+,"Great Location, good rooms, good breakfast",3,LOW,0,0,0,0,0
+,Désagréable,4,HIGH,1,0,0,0,0
+,Awesome stay great value,3,LOW,0,0,0,0,0
+,Grand hotel,3,LOW,0,0,0,0,0
+,Simply Excellent,4,HIGH,1,0,0,0,0
+,Always the best,4,HIGH,1,0,0,0,0
+,Theatre visit,4,HIGH,1,0,0,0,0
+,<U+3068><U+306B><U+304B><U+304F><U+30DC><U+30ED><U+3044>,5,HIGH,1,0,3,0,0
+,soggiorno nelle aspettative,1,LOW,0,1,0,0,0
+,A+,3,LOW,0,1,0,0,0
+,Can't fault the hotel at all!,2,LOW,0,0,-1,0,0
+,London Gem,4,HIGH,1,0,0,0,0
+,"Great style, no substance",5,HIGH,1,0,1,0,0
+,spending a weekend at Mondrian London,4,HIGH,1,0,0,0,0
+,Simple et central,4,HIGH,1,0,3,0,0
+,All round great hotel in London,5,HIGH,1,0,0,0,0
+,Chic hotel!,5,HIGH,1,0,0,0,0
+,A little gem,4,HIGH,1,0,0,0,-1
+,Excellent yet again,4,HIGH,1,0,0,0,0
+,Beautiful hotel but bedroom let it down,3,LOW,0,0,0,0,0
+,Superb,4,HIGH,1,0,0,0,0
+,Perfect rooms,4,HIGH,1,0,0,0,0
+,Marg Davies & Co,1,LOW,0,0,-3,0,0
+,Mondrian hotel - great location,4,HIGH,1,0,1,0,0
+,"High prices, mediocre stay",4,HIGH,1,0,0,1,0
+,A good business hotel for one or two nights,5,HIGH,1,0,0,1,0
+,Exceptional hotel,4,HIGH,1,0,0,1,0
+,Good for short stay.,3,LOW,0,0,0,0,0
+,"<U+0434><U+043E><U+0440><U+043E><U+0433><U+043E>, <U+043D><U+043E> <U+0441><U+043E> <U+0432><U+043A><U+0443><U+0441><U+043E><U+043C>",5,HIGH,1,0,0,0,0
+,warm friendly and relaxing,5,HIGH,1,0,0,0,0
+,Squeaky clean establishment,4,HIGH,1,0,0,0,0
+,Afternoon tea in Lobby Lounge and a tour of hotel.,5,HIGH,1,0,0,1,0
+,One of the best hotel in London,5,HIGH,1,0,0,0,0
+,High tea cannot be better,3,LOW,0,0,0,0,-1
+,Wedding Day - Magical,4,HIGH,1,2,-3,0,2
+,Flawless,1,LOW,0,-1,-1,0,0
+,THE VERY BEST!,5,HIGH,1,0,1,0,0
+,<U+0418><U+0434><U+0435><U+0430><U+043B><U+044C><U+043D><U+043E><U+0435> <U+043C><U+0435><U+0441><U+0442><U+043E> <U+0434><U+043B><U+044F> <U+043E><U+0442><U+0434><U+044B><U+0445><U+0430> <U+0432> <U+0446><U+0435><U+043D><U+0442><U+0440><U+0435> <U+041B><U+043E><U+043D><U+0434><U+043E><U+043D><U+0430>!!!!!,4,HIGH,1,0,0,0,0
+,Wonderful hotel but not for Christmas,4,HIGH,1,0,0,0,0
+,Outstanding Hotel,5,HIGH,1,0,2,1,0
+,Could this be the best hotel in the world?,3,LOW,0,0,0,0,0
+,di buono ha solo la posizione,5,HIGH,1,0,0,0,0
+,Fabulous Hot Spot Hotel,4,HIGH,1,0,0,0,0
+,Fancy hotel with great location!,1,LOW,0,0,0,0,0
+,The Savoy,5,HIGH,1,0,0,0,0
+,Loved every minute of my stay,5,HIGH,1,0,0,0,0
+,Virkelig rart sted at bo,4,HIGH,1,0,0,0,0
+,"Ottimo in tutto, o quasi",5,HIGH,1,0,1,0,0
+,Fantastic Experience,5,HIGH,1,0,1,0,0
+,Hotel familiar,4,HIGH,1,0,0,0,0
+,A happy stay in London,1,LOW,0,0,0,0,0
+,Brilliant!,5,HIGH,1,0,0,0,0
+,Didnt meet expectations...,5,HIGH,1,0,0,0,0
+,Great rooms,4,HIGH,1,0,0,0,0
+,"Linda Campbell, Alabama USA",3,LOW,0,0,0,0,0
+,Excelente,5,HIGH,1,0,0,0,0
+,Perfect Hotel in London,4,HIGH,1,0,0,0,0
+,We Felt Like Family!,3,LOW,0,0,0,0,0
+,Great stay ...BUT!,5,HIGH,1,0,1,0,0
+,"Ottima posizione, grande cortesia",5,HIGH,1,0,1,0,0
+,Amazing hotel,4,HIGH,1,0,2,0,0
+,A five star hotel delivering 5 star service,4,HIGH,1,0,2,0,0
+,Gorgeous Tea Afternoon,5,HIGH,1,0,0,0,0
+,Wonderful!,2,LOW,0,0,0,0,0
+,Nice upscale hotel,5,HIGH,1,0,0,1,0
+,Birthday weekend made special,4,HIGH,1,0,0,0,0
+,"Lovely building, great restaurant, rude management",5,HIGH,1,0,2,0,0
+,Theatre Visit,5,HIGH,1,0,0,0,0
+,The Dorchester,4,HIGH,1,0,0,1,0
+,Unbelievable,2,LOW,0,0,0,0,0
+,El hotel perfecto en Londres,5,HIGH,1,0,2,0,0
+,Uovertruffen service,4,HIGH,1,0,0,0,0
+,Honeymoon at The Rembrandt,5,HIGH,1,0,2,0,0
+,a little on the old side,5,HIGH,1,0,2,0,0
+,The best customer service in the world?!,5,HIGH,1,0,2,2,0
+,Another highlight on Park Lane,5,HIGH,1,3,0,0,0
+,Great deal & good location,5,HIGH,1,1,0,0,0
+,"A nice, cozy and friendly hotel with good value",5,HIGH,1,0,0,0,0
+,Worth a visit,5,HIGH,1,0,0,0,0
+,Perfect City Hotel with Fab Design,5,HIGH,1,0,2,0,0
+,Why do pompous?,3,LOW,0,0,0,0,0
+,High Tea im Dorchester – ein Höhepunkt bei jeder Englandreise,4,HIGH,1,0,0,0,0
+,Stunning London Hotel Mondrian with the personal touch,2,LOW,0,0,0,0,0
+,"Filthy, Unhygienic",5,HIGH,1,0,0,0,0
+,Love this place,4,HIGH,1,0,2,1,0
+,American Bar review,4,HIGH,1,0,0,0,0
+,Beautiful,5,HIGH,1,0,0,0,0
+,Great location,3,LOW,0,0,0,0,0
+,<U+670D><U+52D9><U+4E00><U+6D41>,5,HIGH,1,0,0,0,0
+,Excellent!,5,HIGH,1,0,1,0,0
+,Beautiful hotel and excellent service,4,HIGH,1,0,0,0,0
+,Carino,4,HIGH,1,0,0,0,0
+,I tried to like it...,5,HIGH,1,0,2,0,0
+,"gut, sauber, freundlich - ideal für Kurztrips",5,HIGH,1,0,0,0,0
+,ponte immacolata,3,LOW,0,0,0,-2,0
+,A wonderful experience.,5,HIGH,1,0,0,2,0
+,Beautiful classic hotel,5,HIGH,1,0,0,1,0
+,Alto livello,5,HIGH,1,0,0,1,0
+,Amazing evening with old friends at The Savoy,5,HIGH,1,0,2,0,0
+,Best Deep Tissue massage in London at the Agua Spa at the Mondrian Hotel,4,HIGH,1,0,0,0,0
+,The perfect place if you want to start your stay in London,4,HIGH,1,0,0,0,0
+,Choose an Art Deco room for sure...,5,HIGH,1,0,2,0,0
+,Top stay,4,HIGH,1,0,0,0,0
+,"Location, room, and service outstanding",4,HIGH,1,0,0,0,0
+,overnight stay,5,HIGH,1,0,0,1,0
+,Another great stay!,5,HIGH,1,0,3,1,0
+,Hotel impecável em todos os sentidos.,5,HIGH,1,0,0,0,0
+,Top Notch Accommodations in London,5,HIGH,1,0,0,0,0
+,un bel hotel,4,HIGH,1,0,0,0,0
+,"Super Hotel, unschlagbarer Preis, tolle Lage",5,HIGH,1,0,0,1,0
+,The Mondrian is well worth a visit!,3,LOW,0,0,0,0,0
+,Very clean and very friendly though CS sub par.,3,LOW,0,0,1,0,0
+,Fantastic small Curzon cinema,5,HIGH,1,0,0,0,0
+,Very much a 5 star experience,3,LOW,0,0,0,1,1
+,Great stay,4,HIGH,1,0,2,1,0
+,Great location and hotel,5,HIGH,1,0,0,0,0
+,EXCELLENT ALL THE WAY AROUND,3,LOW,0,0,0,0,0
+,"Clean, Clean, Clean",3,LOW,0,0,0,2,0
+,AMAZING!!,4,HIGH,1,0,2,2,0
+,"Beautiful, vibey hotel",4,HIGH,1,0,0,0,0
+,<U+0644><U+0646><U+062F><U+0646> <U+0641><U+0646><U+062F><U+0642> <U+0628><U+0644><U+063A><U+0627><U+0631><U+064A>,5,HIGH,1,0,2,2,0
+,After theatre drinks,5,HIGH,1,0,2,0,0
+,A comforting experience,4,HIGH,1,0,0,-1,0
+,An excellent Christmas lunch with colleagues,3,LOW,0,0,0,0,0
+,Perfect hotel!,5,HIGH,1,0,2,0,0
+,Praktisch für Kurztripp,5,HIGH,1,0,0,0,0
+,Outstanding.,5,HIGH,1,0,0,0,0
+,Great time in London and The Rembrandt,4,HIGH,1,0,0,0,0
+,Camera piccolissima !,5,HIGH,1,0,0,0,0
+,I don't get it,5,HIGH,1,0,0,0,0
+,The Wellesley Hotel,5,HIGH,1,0,4,0,0
+,Great vibe! Poor food!,2,LOW,0,0,0,0,-1
+,Not value for money and quite frankly a huge dissapointment!!,4,HIGH,1,0,0,0,0
+,business hotel in the city,5,HIGH,1,0,0,0,0
+,Amazing,5,HIGH,1,0,1,0,1
+,Great location and enthusiastic staff,5,HIGH,1,0,0,0,0
+,Fantastic hotel,4,HIGH,1,0,0,-1,0
+,Truly A 5% Star Experience,5,HIGH,1,0,2,1,0
+,Value for money!,5,HIGH,1,0,2,0,0
+,Dinner for three,4,HIGH,1,0,0,0,0
+,Fabulous,5,HIGH,1,0,0,0,0
+,"No service, no ammenities, nothing",5,HIGH,1,0,0,0,0
+,Good service and an enjoyable stay,3,LOW,0,0,0,0,0
+,Beautiful,5,HIGH,1,0,-1,0,0
+,"Snooty Doormen, Small Rooms but unmistakingly Mandarin",5,HIGH,1,0,0,2,0
+,Married at the Dorchester....exquisite hotel!,2,LOW,0,0,1,0,0
+,Komfortabel und zentral,5,HIGH,1,0,2,0,0
+,"Great location, fantastic staff",5,HIGH,1,0,0,0,-1
+,The best you'll find for the price!,4,HIGH,1,0,1,0,0
+,Short stay,5,HIGH,1,0,2,0,0
+,Very good on all aspects,5,HIGH,1,0,0,0,0
+,lovely hotel,5,HIGH,1,0,2,0,0
+,Fantastico hotel!,5,HIGH,1,0,3,0,0
+,Loved the Ridgemount Hotel,5,HIGH,1,0,0,2,0
+,The feel of real luxury in the heart of London,4,HIGH,1,0,1,0,0
+,Teething problems?,2,LOW,0,0,-2,0,0
+,Simply Outstanding,2,LOW,0,0,0,0,0
+,Great hotel top location and quality experience,5,HIGH,1,0,2,0,0
+,We are going back,5,HIGH,1,0,0,0,0
+,"A Fairmont Hotels ""Treasure"" in London exactly where you want to be",5,HIGH,1,0,0,2,0
+,The lap of luxury,5,HIGH,1,2,0,0,0
+,Very nice hotel! Great location!,4,HIGH,1,0,0,0,0
+,Worth the price you pay,5,HIGH,1,0,2,0,0
+,<U+826F><U+3044><U+30DB><U+30C6><U+30EB><U+3067><U+3059>!,5,HIGH,1,0,0,0,0
+,My favourite hotel in London,5,HIGH,1,0,0,1,0
+,Classy,5,HIGH,1,0,2,0,0
+,"Not impressed by the hotel nor the steely eyed, unfavourable staff -",5,HIGH,1,0,0,0,0
+,I can't go back,5,HIGH,1,0,0,0,0
+,Always Welcoming,5,HIGH,1,0,0,0,0
+,Another stay at The Rembrandt,5,HIGH,1,0,2,0,0
+,A wonderful experience,5,HIGH,1,0,0,0,0
+,Cupboard room - not happy,5,HIGH,1,0,2,0,0
+,Trip to Albert Hall,5,HIGH,1,0,0,0,0
+,Accueillant et chaleureux,5,HIGH,1,0,3,0,0
+,Reasonable. Enjoyed a few nights in the larger suites.,4,HIGH,1,0,0,0,0
+,Superb stay. Perfect hotel,5,HIGH,1,0,2,0,0
+,Second time and things are getting good...,5,HIGH,1,0,0,0,0
+,An experience!,5,HIGH,1,0,1,0,0
+,Absolutely Superb!,5,HIGH,1,0,1,0,0
+,Myths & legends,5,HIGH,1,0,3,0,0
+,Perfect trip for a special occasion,5,HIGH,1,0,0,0,0
+,"Great location, big room",5,HIGH,1,0,0,0,0
+,Rumpus Room,5,HIGH,1,0,2,0,0
+,Amazing!,5,HIGH,1,0,0,0,0
+,Luxury personified,5,HIGH,1,0,0,0,1
+,Very welcoming,4,HIGH,1,0,0,0,0
+,I hope to come and for the fourth time,5,HIGH,1,0,0,0,0
+,Trip to London,5,HIGH,1,0,2,2,0
+,Pleasantly surprised,5,HIGH,1,0,0,0,0
+,Small but perfectly formed,2,LOW,0,0,0,0,0
+,Stylish spot by the river,5,HIGH,1,0,0,0,0
+,Great location and value for money near the centre of London,5,HIGH,1,0,0,0,0
+,"Luxurious hotel, a real treat.",5,HIGH,1,0,0,0,0
+,Lovely hotel but not the best London has to offer,5,HIGH,1,0,0,0,0
+,Fantastic Hotel,3,LOW,0,0,2,0,0
+,Uno dei migliori,5,HIGH,1,0,2,0,0
+,London at its Best,4,HIGH,1,2,0,0,0
+,Increíble ubicación,2,LOW,0,0,0,0,0
+,"Excellent location, reasonable value",4,HIGH,1,0,0,0,0
+,A lot of money for the suite but the stay was not perfect,5,HIGH,1,0,0,0,0
+,Cocktails before dinner at the oxo brasserie,5,HIGH,1,0,0,0,0
+,Afternoon tea,5,HIGH,1,0,2,1,0
+,Blanker Horror!!!!!!!!!!!,5,HIGH,1,0,0,0,0
+,A memorable night,5,HIGH,1,0,0,0,0
+,"Great location, great service, great renovations",5,HIGH,1,0,0,0,0
+,Wonderful stay and helpful staff!,5,HIGH,1,0,2,0,0
+,"Beautiful hotel, wonderful service",5,HIGH,1,0,1,0,0
+,A change,4,HIGH,1,0,0,0,0
+,Weekend in London,5,HIGH,1,0,0,0,0
+,Absolutely amazing,5,HIGH,1,2,0,0,0
+,Afternoon tea with mother,3,LOW,0,0,0,0,0
+,A Last Minute Decision,5,HIGH,1,0,0,0,0
+,Súper hotel,5,HIGH,1,0,0,0,0
+,Zakenhotel met een romantische uitstraling,5,HIGH,1,0,3,0,0
+,Ottimo hotel,5,HIGH,1,0,2,0,0
+,O2 visit,5,HIGH,1,0,0,0,0
+,Great birthday experience,5,HIGH,1,0,0,0,0
+,Excelent,5,HIGH,1,0,0,0,0
+,A wonderful treat,5,HIGH,1,0,0,0,0
+,Night at the Savoy Hotel.,5,HIGH,1,0,1,0,0
+,"This hotel bills itself as five stars, but...",5,HIGH,1,0,1,0,1
+,Nice hotel with friendly staff,4,HIGH,1,0,1,0,0
+,Londra old style,5,HIGH,1,0,0,0,0
+,Agradable experiencia,5,HIGH,1,0,2,0,0
+,An amazing hotel,2,LOW,0,1,2,0,0
+,Stylish and great location,3,LOW,0,0,0,0,0
+,Great location for visiting London,5,HIGH,1,0,2,0,0
+,Nightmares,5,HIGH,1,0,0,0,0
+,Mysigt hotell med kanonbra läge,5,HIGH,1,0,0,0,0
+,Great afternoon tea,5,HIGH,1,0,0,0,0
+,Incredible experience,5,HIGH,1,0,2,0,0
+,Perfect place for your London stay,5,HIGH,1,0,0,0,0
+,Small sized hotel offers great experience.,5,HIGH,1,0,0,0,0
+,One of the best service,4,HIGH,1,0,0,0,0
+,"Great Stay, fab room",5,HIGH,1,0,2,0,0
+,Expensive hotel and small room,5,HIGH,1,0,0,0,0
+,Exceptional staff,5,HIGH,1,0,0,0,0
+,Exceptional Staff,4,HIGH,1,0,0,0,0
+,"Iconic, Incredible, Inimitable",3,LOW,0,0,1,0,0
+,Wonderful afternoon tea experience!,4,HIGH,1,0,0,0,0
+,Family,4,HIGH,1,0,0,0,0
+,Quando si dice l'eleganza,5,HIGH,1,-1,0,0,0
+,Memorable stay,5,HIGH,1,0,1,0,0
+,THE nicest place we've ever stayed!,5,HIGH,1,0,0,0,0
+,Fabulous venue,4,HIGH,1,0,3,0,0
+,Girls' weekend city break,5,HIGH,1,0,0,0,0
+,Wonderfully Grand Hotel,5,HIGH,1,0,0,0,0
+,What an experience,5,HIGH,1,0,0,0,0
+,excelent,5,HIGH,1,0,0,0,0
+,parfait,5,HIGH,1,0,0,0,0
+,Great Staff,5,HIGH,1,0,0,0,0
+,Shame on the Savoy!,5,HIGH,1,0,0,0,0
+,Perfect for the best Thames View in London,5,HIGH,1,0,3,0,-1
+,Excellentes nuits,5,HIGH,1,0,0,0,0
+,Mixed,5,HIGH,1,0,2,0,0
+,Weekends just don't get any better!,5,HIGH,1,0,0,0,0
+,Afternoon tea,5,HIGH,1,0,0,0,0
+,Top hotel magnifique piscine,4,HIGH,1,0,0,0,2
+,Loved it!,5,HIGH,1,0,0,0,0
+,Afternoon Tea,4,HIGH,1,0,0,0,0
+,Amazing place for staying in London,4,HIGH,1,2,3,0,0
+,Perfect!,5,HIGH,1,0,0,0,0
+,Great location... but!,5,HIGH,1,0,0,0,0
+,Very Luxurious Hotel right in the heart of London,5,HIGH,1,0,2,0,0
+,Easter Weekend Break,4,HIGH,1,0,0,0,0
+,Comfortable traditional hotel in great location,5,HIGH,1,0,0,0,0
+,Let down! A quirky 3* at most!,5,HIGH,1,0,0,0,0
+,Brilliant find,5,HIGH,1,0,1,0,0
+,Excellant,4,HIGH,1,0,0,0,0
+,"Excellent location, comfortable, well-managed, good value",1,LOW,0,0,0,0,0
+,Excellent in every way,5,HIGH,1,0,0,0,0
+,Luxurious,5,HIGH,1,0,2,0,0
+,Incredible Place,5,HIGH,1,0,3,0,0
+,A Cut Above the Rest,4,HIGH,1,0,0,0,0
+,Wonderful hospitality and impeccable cleanliness,5,HIGH,1,0,2,0,0
+,Erholsame Tage in London,5,HIGH,1,0,0,0,0
+,Very nice hotel with fantastic spa facilities,1,LOW,0,0,0,0,0
+,Wonderful indulgence!,5,HIGH,1,0,0,0,0
+,Ottimo soggiorno,4,HIGH,1,0,2,0,0
+,Fantastic,2,LOW,0,0,0,0,0
+,Sehr stylisches Hotel in perfekter Lage,5,HIGH,1,0,2,0,0
+,Lovely hotel,5,HIGH,1,0,1,0,0
+,Fabulous,4,HIGH,1,0,1,0,0
+,What a perfect weekend!,5,HIGH,1,0,0,0,0
+,"Comfortable rooms, Excellent restaurants, incomparable service",5,HIGH,1,0,0,0,0
+,Amazing!,4,HIGH,1,2,0,0,0
+,True British Heritage Experience,3,LOW,0,0,-1,0,-1
+,This is the best hotel I've ever stayed in.,5,HIGH,1,0,0,0,0
+,<U+2765>•<U+266A><U+266B>¸¸.<U+2606>¨A place to play like a pirate!,5,HIGH,1,0,0,0,0
+,Birthday Celebration,5,HIGH,1,0,0,0,0
+,Do you need 5 stars to charge £6.50 for a cup of tea?,5,HIGH,1,0,0,0,0
+,Very comfortable stay,2,LOW,0,0,-2,0,0
+,Brilliant atay,4,HIGH,1,0,0,0,0
+,Quintessential luxury London hotel,5,HIGH,1,0,0,0,0
+,FORMIDABLE EXPERIENCE IN THE RIVER VIEW SUITE!,5,HIGH,1,0,3,0,0
+,Great place to stay when visiting Kensington area,5,HIGH,1,0,0,1,0
+,"great public areas, trendy but service not great",5,HIGH,1,0,3,0,0
+,Ottimo hotel,4,HIGH,1,0,0,1,0
+,Worth every penny,5,HIGH,1,0,0,0,2
+,Flash Hotel in London,4,HIGH,1,-1,0,0,0
+,Brilliant Birthday Treat...again,3,LOW,0,0,0,0,0
+,Family trip,4,HIGH,1,0,0,0,0
+,Good all round hotel,5,HIGH,1,0,2,0,0
+,You really cannot fault this place apart from 1 thing,4,HIGH,1,0,0,0,0
+,The little things.,4,HIGH,1,0,0,0,0
+,Perfect Dinner with great view,4,HIGH,1,0,1,0,0
+,Excellent Location,4,HIGH,1,0,1,0,0
+,Great hotel to stay in,1,LOW,0,0,0,0,0
+,Bel et bien placé,5,HIGH,1,0,0,1,0
+,So special,5,HIGH,1,0,0,0,0
+,1st Class,4,HIGH,1,0,0,0,0
+,Second time visiting,3,LOW,0,0,0,0,0
+,One night business stay,4,HIGH,1,0,2,0,0
+,"As average as it gets, except for the breakfast!",5,HIGH,1,0,0,0,0
+,Enjoyable and comfortable stay.,4,HIGH,1,0,0,0,0
+,"Ideally located, a special place in London.",5,HIGH,1,0,1,0,-1
+,In London you get what you pay for.,4,HIGH,1,0,0,0,0
+,this is the best hotel we have ever stayed in,5,HIGH,1,0,2,0,3
+,Beaufort Bar is Big City magic . . .,3,LOW,0,0,1,0,0
+,Great place to stay!,4,HIGH,1,0,3,0,0
+,Ottimo,3,LOW,0,0,0,0,0
+,Familyvaccation,5,HIGH,1,0,0,0,0
+,Professionally Run Family Hotel,5,HIGH,1,0,0,0,0
+,Amazing afternoon tea,4,HIGH,1,0,0,0,0
+,Empfehlenswerte Wohnlage,5,HIGH,1,0,0,0,0
+,Mandarin Oriental in The BEST!,5,HIGH,1,0,0,0,0
+,Mrs,5,HIGH,1,0,0,0,0
+,Great vist to London!,5,HIGH,1,0,0,1,0
+,Great lunch and drinks,5,HIGH,1,0,1,0,0
+,"a great find,we will return.",5,HIGH,1,0,0,0,0
+,Wonderful,4,HIGH,1,0,2,0,0
+,Great Hotel,1,LOW,0,0,0,0,0
+,Hat mit Mariott nichts zu tun. Den Aufenthalt einfach schnell vergessen.,5,HIGH,1,0,0,0,0
+,<U+6539><U+88C5><U+3057><U+3066><U+7DBA><U+9E97><U+306B><U+306A><U+308A><U+307E><U+3057><U+305F>,5,HIGH,1,0,0,0,0
+,Designer,4,HIGH,1,0,2,0,0
+,Attention to details in a great location.,5,HIGH,1,0,0,0,0
+,Bad experience,5,HIGH,1,0,0,0,0
+,Fabuloso,5,HIGH,1,0,2,2,0
+,Friendly and Helpful B&B,5,HIGH,1,0,0,0,0
+,"Back again, and still loving the Corinthia",5,HIGH,1,0,1,0,0
+,pochi giorni...ma buoni!,3,LOW,0,0,0,0,-1
+,affordable and friendly base to explore London,5,HIGH,1,0,0,0,0
+,"Oustanding hotel, staff and food.",5,HIGH,1,0,0,0,0
+,Afternoon tea,3,LOW,0,0,0,0,0
+,Didn't live up to expectation,3,LOW,0,0,0,0,0
+,An afternoon in High Society,5,HIGH,1,0,0,0,0
+,End of succesful business year and end of year meeting,5,HIGH,1,0,0,0,0
+,Best Hotel in London! Your Expectations will be Exceeded at Every Turn!,4,HIGH,1,0,0,0,0
+,Another great stay at the Mondrian London! No doubt ill be down there again soon!,2,LOW,0,0,0,0,0
+,Best hotel experience ever!,5,HIGH,1,0,2,0,0
+,My husbands birthday,5,HIGH,1,0,0,0,0
+,Amazing!,5,HIGH,1,2,1,0,0
+,Realising a dream,1,LOW,0,0,-3,0,0
+,Valentine's day stay,3,LOW,0,0,0,0,-1
+,Very nice AFTER we changed rooms,5,HIGH,1,0,2,0,0
+,1 Night Romantic Stay,5,HIGH,1,0,0,0,0
+,Personal Service Perfection,5,HIGH,1,0,0,0,0
+,Interesting,5,HIGH,1,0,0,0,0
+,excellent hotel,4,HIGH,1,0,0,0,0
+,Second home,5,HIGH,1,0,1,0,0
+,Hmmm...,5,HIGH,1,0,0,0,0
+,"Awesome location, super cool property",4,HIGH,1,0,0,0,-1
+,A Real Pleasure................................,3,LOW,0,0,0,0,0
+,Where life-long memories are made,5,HIGH,1,0,1,0,0
+,Return visit - didn't disappoint,5,HIGH,1,0,0,0,0
+,Christmas meal in the Orchid Room/Holford Room,5,HIGH,1,0,0,0,0
+,Fabulous!!!,4,HIGH,1,0,2,0,0
+,Pure luxury,5,HIGH,1,0,0,0,0
+,Lovely hotel,3,LOW,0,0,0,2,0
+,Nearly great,4,HIGH,1,0,0,0,0
+,OVERATED,4,HIGH,1,0,0,0,0
+,Fantastic hotel and spa,5,HIGH,1,0,0,0,0
+,All is well at London Guest House,5,HIGH,1,0,0,0,0
+,A Problem,5,HIGH,1,0,0,0,0
+,I want to agree...,5,HIGH,1,0,1,0,0
+,"Nice, small, comfortable, homelike",4,HIGH,1,0,-1,0,0
+,Jeder Zeit ein Aufenthalt wert.,5,HIGH,1,0,0,0,0
+,OK As A Young Foreign Visitors Base,5,HIGH,1,0,0,0,0
+,True Quality and Perfection,5,HIGH,1,0,2,1,-1
+,Excellent,5,HIGH,1,1,0,0,0
+,This is what you need!,5,HIGH,1,0,0,0,0
+,Like staying at Buckingham Palace,5,HIGH,1,0,0,0,0
+,Birthday celebration for a landmark age,5,HIGH,1,0,0,0,0
+,Lovely stay.,4,HIGH,1,0,0,0,0
+,Superb venue- shame about the kippers!,5,HIGH,1,0,2,0,0
+,Best Hotel I have stayed at in the U.K.,4,HIGH,1,0,1,0,0
+,perfektes frühstück in der northhall,5,HIGH,1,0,0,0,0
+,A Real Gem,5,HIGH,1,0,0,0,0
+,Amazing 30th birthday treat I will never forget. SPECTACULAR,4,HIGH,1,0,0,0,0
+,Historically!,5,HIGH,1,0,2,0,0
+,"Mondrian London, sunsets and cocktails",5,HIGH,1,0,0,0,0
+,Fab renovations,4,HIGH,1,0,0,0,0
+,First Class,4,HIGH,1,0,0,0,0
+,Value for money,4,HIGH,1,0,0,0,0
+,Simply the best,5,HIGH,1,0,0,0,0
+,The WoW Factor,5,HIGH,1,0,0,0,0
+,Wimbledon stay,5,HIGH,1,0,0,0,0
+,It is okay and safe and clean,5,HIGH,1,0,0,0,0
+,ottimo,5,HIGH,1,0,0,0,0
+,Amazing British Luxury,5,HIGH,1,0,0,0,0
+,Excellent restaurant,5,HIGH,1,0,0,0,0
+,Boutique hotel in Knightsbridge,5,HIGH,1,0,0,0,0
+,Viaggio a Londra,4,HIGH,1,0,0,0,0
+,maar een woord super,5,HIGH,1,0,0,0,0
+,Best service anywhere,5,HIGH,1,0,2,0,0
+,Exceeds Expectations,5,HIGH,1,0,0,0,0
+,Northall Restaurant,4,HIGH,1,0,1,0,0
+,What a lovely Old-Worldy hotel,5,HIGH,1,0,0,0,0
+,Special Birthday Celebrated in Style !,5,HIGH,1,0,2,0,0
+,"Great location, great value, friendly service""",4,HIGH,1,0,0,0,0
+,"Excellent, if you can afford it",4,HIGH,1,0,0,1,0
+,Excellent service in a lovely hotel,5,HIGH,1,0,2,0,0
+,Heavenly stay!,5,HIGH,1,0,1,0,0
+,Sublime!,5,HIGH,1,0,0,0,0
+,Superbe hôtel,4,HIGH,1,0,0,0,0
+,Superb!,5,HIGH,1,0,0,0,0
+,Kaspar’s restaurant for lunch,4,HIGH,1,0,0,0,0
+,Excellent Stay in London at Rhodes Hotel,5,HIGH,1,0,0,0,0
+,Fantastic Birthday stay,5,HIGH,1,0,0,0,0
+,Truly The Hotel to Benchmark,5,HIGH,1,0,0,0,0
+,Fantastic.,5,HIGH,1,0,0,0,0
+,Disappointed,5,HIGH,1,0,0,0,0
+,Great modern hotel in central London,5,HIGH,1,0,0,0,0
+,The Best in London,5,HIGH,1,0,0,0,0
+,<U+041E><U+0442><U+043B><U+0438><U+0447><U+043D><U+044B><U+0439> <U+043E><U+0442><U+0435><U+043B><U+044C>!,5,HIGH,1,0,0,0,0
+,Two night stay,5,HIGH,1,0,0,0,0
+,The perfect destination,5,HIGH,1,0,1,0,0
+,Amazing Food!,5,HIGH,1,0,0,0,0
+,Best secret weekend stay in London,5,HIGH,1,0,0,0,0
+,Un hotel excelente,5,HIGH,1,0,0,0,0
+,Mesmerising,5,HIGH,1,0,0,0,0
+,Extremely rude service when trying to cancel reservation,5,HIGH,1,0,0,0,0
+,"Great service, great location, great experience",4,HIGH,1,0,1,0,0
+,Great hotel,5,HIGH,1,0,0,0,0
+,Romantic weekend away,5,HIGH,1,0,0,0,0
+,The best,5,HIGH,1,0,0,0,0
+,Nice hotel,5,HIGH,1,0,0,0,0
+,"Superb hotel, incredible service..",5,HIGH,1,0,0,0,0
+,A favourite hotel for plush acoomodations and good service,5,HIGH,1,0,0,0,0
+,Wedding,5,HIGH,1,0,0,0,0
+,Happy Birthday to me!!!,5,HIGH,1,0,0,0,0
+,Lovely Hotel,5,HIGH,1,0,2,0,0
+,Not quite perfect but still great,5,HIGH,1,0,0,0,0
+,Disappointed returning guest,5,HIGH,1,0,2,0,0
+,Excellent Top Quality Hotel And Customer Care,5,HIGH,1,0,0,0,0
+,Beautiful hotel but a few issues,5,HIGH,1,1,0,0,0
+,LOVE IT!!!,5,HIGH,1,0,0,0,0
+,Modern Hip Hotel with a great location,5,HIGH,1,0,0,0,2
+,Excellent hotel,5,HIGH,1,0,0,0,0
+,relaxed and helpfull,3,LOW,0,0,0,0,0
+,Not worth the £55 a night,5,HIGH,1,0,0,0,0
+,Londres amigable y grandioso,5,HIGH,1,0,0,0,0
+,Refubished room- amazing,5,HIGH,1,0,0,0,0
+,"Friendly, lovely hotel",5,HIGH,1,0,1,0,0
+,2 Night stay,5,HIGH,1,0,2,0,0
+,Another fantastic luxury hotel,5,HIGH,1,0,0,0,0
+,Great luxury hotel,5,HIGH,1,0,2,0,0
+,excellent rapport qualité prix,4,HIGH,1,0,0,0,0
+,Trendy hotel located next to Thames!,5,HIGH,1,0,0,0,0
+,Very Enjoyable stay,4,HIGH,1,0,0,0,0
+,Tip top drinks in august surrounds,5,HIGH,1,0,0,0,0
+,Lovely hotel in a popular location,4,HIGH,1,0,0,0,0
+,If only there were 6 stars,5,HIGH,1,0,0,0,0
+,Ottimo hotel nella City,5,HIGH,1,0,0,0,0
+,Stylish 5 star hotel,5,HIGH,1,0,0,0,0
+,Alto livello,5,HIGH,1,0,2,0,0
+,We don't recommend this hotel,2,LOW,0,0,0,0,-1
+,Fantastic few days stay at the Rembrandt,5,HIGH,1,0,0,0,0
+,Ideal base for a city break,5,HIGH,1,0,0,0,0
+,Well located for theatre district,4,HIGH,1,0,0,0,0
+,Excellent place for our weekend stay!,5,HIGH,1,0,0,0,0
+,COME UN LONDINESE,4,HIGH,1,0,0,0,0
+,Disabled access,4,HIGH,1,0,0,0,0
+,Modern and super convenient,5,HIGH,1,0,1,0,0
+,Top class and by no means overpriced,5,HIGH,1,0,0,0,-1
+,Wonderful stay,4,HIGH,1,0,1,0,0
+,Fantastic experience,5,HIGH,1,0,0,0,0
+,Birthday Treat,4,HIGH,1,0,0,0,0
+,A delight!,4,HIGH,1,0,0,0,0
+,"new and trendy, location can be problematic",4,HIGH,1,0,0,3,0
+,The most Luxurious & Glamorous Hotel in London !!!,4,HIGH,1,0,0,0,0
+,Beautiful Hotel with Great Service,5,HIGH,1,0,0,0,0
+,"Stylish, well planned out rooms with excellent service",5,HIGH,1,0,0,0,0
+,How thoughtful,5,HIGH,1,0,0,0,0
+,Another level .,5,HIGH,1,0,0,0,0
+,Luxurious Weekend in London,5,HIGH,1,0,0,0,0
+,hotel level is fair to the rate of it.,5,HIGH,1,0,2,0,0
+,Wonderful hotel,5,HIGH,1,0,0,0,0
+,The Thrill is Gone,4,HIGH,1,0,0,0,0
+,I hate to be an echo...,5,HIGH,1,0,1,0,0
+,Hotel design avec service de qualité,5,HIGH,1,0,0,0,0
+,A very enjoyable weekend in London,5,HIGH,1,0,0,0,0
+,Da sconsigliare,5,HIGH,1,0,0,2,0
+,Outstanding Experience,5,HIGH,1,0,2,0,0
+,Klassisk engelsk stil i trevligt område,5,HIGH,1,0,2,0,0
+,Just Perfect,5,HIGH,1,0,0,0,0
+,Everything was sensational,5,HIGH,1,0,0,0,0
+,Avoid this hotel!,5,HIGH,1,0,2,0,0
+,A dream to stay!,5,HIGH,1,0,0,0,0
+,"London, Up Close. But Just.",5,HIGH,1,0,0,0,0
+,"Vriendelijk personeel, mooie locatie",5,HIGH,1,0,0,0,0
+,Anniversary Games so where else would we stay?,5,HIGH,1,0,3,0,0
+,Great place to stay!,5,HIGH,1,0,0,0,0
+,"Boa localizacao, dono muito simpatico e atencioso",5,HIGH,1,0,2,0,0
+,Fantastic Hotel and Service,5,HIGH,1,0,1,0,0
+,Loved it !,5,HIGH,1,0,0,0,0
+,What a location,5,HIGH,1,0,0,0,0
+,Lovely welcoming hotel,1,LOW,0,0,1,-3,0
+,"Excellent location, small room",5,HIGH,1,0,1,0,0
+,Must Stay,5,HIGH,1,0,0,0,0
+,"Disappointed, just wanted to relax with a beer.",5,HIGH,1,0,0,0,0
+,Christmas party,5,HIGH,1,0,2,0,0
+,Cake and cocktails from heaven,5,HIGH,1,0,0,0,0
+,Jazz Bar,5,HIGH,1,0,2,0,0
+,Superb!,5,HIGH,1,0,0,0,0
+,March 2018 trip,5,HIGH,1,0,0,0,0
+,Wonderful Hotel,5,HIGH,1,0,2,0,0
+,Great location for a Hotel /Don't Bother to Eat HearUnless its Breakfast And Book A Table In Both Bars If Thats What Yo,5,HIGH,1,0,0,0,0
+,Fabulous savoy,5,HIGH,1,0,0,1,0
+,Great Mother and Daughter Trip,5,HIGH,1,0,0,0,0
+,expensive but hughly enjoyable,2,LOW,0,0,0,0,0
+,Best hotel in London,5,HIGH,1,0,2,2,0
+,Preis-/Leistung und Lage top,5,HIGH,1,0,0,0,0
+,shabby,5,HIGH,1,0,0,0,0
+,Always A Pleasure,5,HIGH,1,0,0,0,0
+,Post Cruise London,5,HIGH,1,0,3,0,1
+,Fantastique,5,HIGH,1,0,0,0,0
+,superb stay for less than 24 hours,5,HIGH,1,0,0,0,0
+,Outstanding art hotel with a great location and wonderfully appointed rooms,5,HIGH,1,0,0,0,0
+,Could have been great but NOPE!!,5,HIGH,1,0,2,0,0
+,"Great value, great staff, great hotel!",5,HIGH,1,0,1,0,0
+,Muy recomendable. Excelente ubicación.,5,HIGH,1,0,2,0,0
+,Day one of three. Not a great welcome,5,HIGH,1,0,0,0,0
+,Expensive but worth it!,5,HIGH,1,0,2,0,0
+,"Fun, emotional and memorable New Years vacation",5,HIGH,1,0,0,0,0
+,Outstanding customer service and experience,5,HIGH,1,0,2,0,0
+,The staff is the best !!!,5,HIGH,1,0,0,0,0
+,Great Location,5,HIGH,1,0,3,0,0
+,We would stay here again and recommend it to others without hesitation.,5,HIGH,1,0,1,0,0
+,Fabulous Hotel,5,HIGH,1,0,0,0,0
+,A hotel that holds special memories....,5,HIGH,1,0,0,0,0
+,Incorrect billing left a bitter aftertaste,5,HIGH,1,0,2,0,0
+,The Savoy is still fabulous,5,HIGH,1,0,0,0,0
+,A Most Excellent Stay,5,HIGH,1,0,0,0,0
+,A lovely time at Mondrian,5,HIGH,1,0,1,0,0
+,The Rembrandt Hotel,2,LOW,0,0,0,0,1
+,Mandarin Again and happy,5,HIGH,1,0,0,0,0
+,Exceptional Service,5,HIGH,1,0,1,0,0
+,Amazing hotel great staff,5,HIGH,1,0,0,0,0
+,Beautiful hotel but not helpful for business travelers,5,HIGH,1,0,1,0,0
+,Paying for Savoy's mistake ??!!,5,HIGH,1,0,0,0,0
+,Truly Luxurious ... A Perfect 10,5,HIGH,1,0,0,0,0
+,home away from home....,5,HIGH,1,0,0,0,0
+,Great place to stay in the City,5,HIGH,1,0,0,0,0
+,Sheer Class,5,HIGH,1,0,0,0,0
+,Pleasant stay,5,HIGH,1,0,2,0,0
+,Very well thought out rooms,5,HIGH,1,0,0,0,0
+,Excellent hotel,5,HIGH,1,0,0,0,0
+,Over 15 times and always excellent,5,HIGH,1,0,2,0,2
+,A luxurious day,5,HIGH,1,0,2,0,0
+,Good value for money!,5,HIGH,1,0,3,0,0
+,Tres bien situé,5,HIGH,1,0,0,0,0
+,Exceptional - as always!,5,HIGH,1,0,0,0,0
+,Eine echte Empfehlung in der Londoner City,5,HIGH,1,0,0,0,0
+,Très bien situé mais ...,5,HIGH,1,0,0,0,0
+,Good Day!,5,HIGH,1,0,0,0,0
