@@ -32,7 +32,7 @@ bot_name = "Artificial Human"
 print("Let's chat! (type 'end' to exit) if you want to speak type 's' / 'S' or else no need")
 print("I am Artificial Human")
 
-
+#AH speak with the below text 
 def tts(text, lang):
     file = gTTS(text=text, lang=lang)
     filename = '/tmp/temp.mp3'
@@ -48,6 +48,7 @@ def tts(text, lang):
 text = " Hii welcome to our cafe ask your doubts i will rectify it and if you want to speak with me just type s . Lets start to chat ! I am a Artificial Human"
 lang = 'en'
 tts(text, lang)
+#If input is s , then only microphone will be activated or else no
 while True:
     sentence = input("You: ")
     if (sentence == "s" or sentence == "S"):
@@ -78,7 +79,7 @@ while True:
         for intent in intents['intents']:
             if tag == intent["tag"]:
                 s= random.choice(intent['responses'])
-                print("Artificial Human: ",s)
+                print("Artificial Human: ",s) # After printing the statement the bot speak that 
                 def tts(text, lang):
                     file = gTTS(text=text, lang=lang)
                     filename = '/tmp/temp.mp3'
@@ -94,7 +95,7 @@ while True:
                 lang = 'en'
                 tts(text,lang)
     else:
-      print("Artificial Human: I do not understand......")
+      print("Artificial Human: I do not understand......") #if not matching then it will print this one 
 
 
       def tts(text, lang):
